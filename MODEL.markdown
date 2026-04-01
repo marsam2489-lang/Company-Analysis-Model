@@ -1,4 +1,4 @@
-![Simply Wall St Logo](./images/simply-wall-st-logo.png "Simply Wall St Logo")
+1. ![Simply Wall St Logo](./images/simply-wall-st-logo.png "Simply Wall St Logo")
  
  Simply Wall St Company Analysis Model
 ======================================
